@@ -1,0 +1,276 @@
+{
+  "category": [
+  {
+    "name": "Clothes & Shoes",
+    "id": 1
+  },
+  {
+    
+    "name": "Entertainment",
+    "id": 2
+  },
+  {
+    "name": "Music",
+    "id": 3
+  },
+  {
+    "name": "Sport & Lifestyle",
+    "id": 4
+  },
+  {
+    "name": "Pets",
+    "id": 5
+  },
+  {
+    "name": "Kitchen Accessories",
+    "id": 6
+  }
+  ,
+  {
+    "name": "Travel Equipment",
+    "id": 7
+  },
+  {
+    "name": "Growing & Garden",
+    "id": 8
+  },
+  {
+    "name": "Electronic Tools",
+    "id": 9
+  },
+  {
+    "name": "Mother Care",
+    "id": 10
+  },
+  {
+    "name": "Toys & Entertainment",
+    "id": 11
+  },
+  {
+    "name": "Vintage",
+    "id": 12
+  }
+],
+    "product": [
+      {
+        "_id": "2",
+        "name": "Men Jeans Mufti salim fit",
+        "maincategory": "Male",
+        "subcategory": "Jeans",
+        "brand": "Adidas",
+        "color": "Blue",
+        "size": "xxl",
+        "baseprice": 900,
+        "discount": 35,
+        "finalprice": 585,
+        "stock": "In Stock",
+        "description": "Blue jeans for men",
+        "pic1": "p1.jpg",
+        "pic2": "p2.jpg",
+        "pic3": "p5.jpg",
+        "pic4": "p11.jpg",
+        "id": 2
+      },
+      {
+        "name": "Men Tshirt Adidas",
+        "maincategory": "Male",
+        "subcategory": "Tshirt",
+        "brand": "Adidas",
+        "color": "Black",
+        "size": "SM",
+        "baseprice": 7700,
+        "discount": 25,
+        "finalprice": 5775,
+        "stock": "In Stock",
+        "description": "Men black t-shirt",
+        "pic1": "p3.jpg",
+        "pic2": "p52.jpg",
+        "pic3": "p51.jpg",
+        "pic4": "p52.jpg",
+        "id": 3
+      },
+      {
+        "_id": "4",
+        "name": "Women Jeans Slim fit Tommy fitfigure",
+        "maincategory": "Female",
+        "subcategory": "Jeans",
+        "brand": "Adidas",
+        "color": "Blue",
+        "size": "L",
+        "baseprice": 500,
+        "discount": 45,
+        "finalprice": 275,
+        "stock": "In Stock",
+        "description": "Women blue Jeans ",
+        "pic1": "p9.jpg",
+        "pic2": "p6.jpg",
+        "pic3": "p17.jpg",
+        "pic4": "p18.jpg",
+        "id": 4
+      },
+      {
+        "_id": "5",
+        "name": "T-Shirt",
+        "maincategory": "Male",
+        "subcategory": "Tshirt",
+        "brand": "Adidas",
+        "color": "White",
+        "size": "L",
+        "baseprice": 700,
+        "discount": 35,
+        "finalprice": 455,
+        "stock": "In Stock",
+        "description": "White T-Shirt for men",
+        "pic1": "p21.jpg",
+        "pic2": "p24.jpg",
+        "pic3": "p15.jpg",
+        "pic4": "p21.jpg",
+        "id": 5
+      },
+      {
+        "name": "T-Shirt For girls",
+        "maincategory": "Female",
+        "subcategory": "Tshirt",
+        "brand": "Puma",
+        "color": "White",
+        "size": "L",
+        "baseprice": 600,
+        "discount": 24,
+        "finalprice": 456,
+        "stock": "In Stock",
+        "description": "White t-shirt for girls",
+        "pic1": "p28.jpg",
+        "pic2": "p22.jpg",
+        "pic3": "p23.jpg",
+        "pic4": "p22.jpg",
+        "id": 6
+      },
+      {
+        "name": "Formal shoes",
+        "maincategory": "Male",
+        "subcategory": "Shoes",
+        "brand": "Nike",
+        "color": "Black",
+        "size": "L",
+        "baseprice": 1200,
+        "discount": 38,
+        "finalprice": 744,
+        "stock": "In Stock",
+        "description": "Brown leather shoes ",
+        "pic1": "Designer-Shoes45-1-1.jpg",
+        "pic2": "leather-shoes-26612971 (1).jpg",
+        "pic3": "mens-leather-shoe-500x500.jpg",
+        "pic4": "leather-shoes-26612971.jpg",
+        "id": 7
+      },
+      {
+        "name": "realme C33",
+        "maincategory": "Male",
+        "subcategory": "Mobile",
+        "brand": "Tomy Hillfigure",
+        "color": "Blue",
+        "size": "L",
+        "baseprice": 8000,
+        "discount": 10,
+        "finalprice": 7200,
+        "stock": "In Stock",
+        "description": "Experience dynamic photography ",
+        "pic1": "-original-imaghuf9guqmb65z.webp",
+        "pic2": "-original-imaghuf9w7kgxh9u.webp",
+        "pic3": "-original-imaghuf9ejvb57z5.webp",
+        "pic4": "-original-imaghuf9ebsgyggk.webp",
+        "id": 8
+      },
+      {
+        "name": "Headphones Wireless",
+        "maincategory": "Male",
+        "subcategory": "Electronics",
+        "brand": "Boat",
+        "color": "Blue",
+        "size": "L",
+        "baseprice": 900,
+        "discount": 8,
+        "finalprice": 828,
+        "stock": "In Stock",
+        "description": "Wireless Magnetic Design Sweatproof",
+        "pic1": "wireless-magnetic-design-sweatproof-sports-earphones-w-mic-original-imagfzehqzuyhxhy.webp",
+        "pic2": "yes-magnet-ring-necked-sports-wireless-stereo-earphones-original-imagde9g7gch8rjj.webp",
+        "pic3": "wireless-magnetic-design-sweatproof-sports-earphones-w-mic-original-imagfzehqzuyhxhy.webp",
+        "pic4": "yes-magnet-ring-necked-sports-wireless-stereo-earphones-original-imagde9g7gch8rjj.webp",
+        "id": 9
+      },
+      {
+        "name": "Smart Headphones Wireless",
+        "maincategory": "Male",
+        "subcategory": "Electronics",
+        "brand": "Boat",
+        "color": "White",
+        "size": "XXL",
+        "baseprice": 2000,
+        "discount": 35,
+        "finalprice": 1300,
+        "stock": "In Stock",
+        "description": "True Wireless System (TWS)",
+        "pic1": "inpods-12-mini-with-charging-case-rl-bluetooth-v42-dual-plug-original-imag54cgnffka8sv.webp",
+        "pic2": "inpods-12-mini-with-charging-case-rl-bluetooth-v42-dual-plug-original-imag54cgmqjp2tzp.webp",
+        "pic3": "inpods-12-mini-with-charging-case-rl-bluetooth-v42-dual-plug-original-imag54cgnffka8sv.webp",
+        "pic4": "inpods-12-mini-with-charging-case-rl-bluetooth-v42-dual-plug-original-imag54cgmqjp2tzp.webp",
+        "id": 10
+      },
+      {
+        "name": "Running Shoes ",
+        "maincategory": "Male",
+        "subcategory": "Shoes",
+        "brand": "Adidas",
+        "color": "Black",
+        "size": "L",
+        "baseprice": 6000,
+        "discount": 30,
+        "finalprice": 4200,
+        "stock": "In Stock",
+        "description": "Crystal-13 Black Sports Running Shoes",
+        "pic1": "10-crystal-13cblkrd-asian-black-original-imagbdayh9bfg3ru.webp",
+        "pic2": "9-crystal-13cblkrd-asian-black-original-imagbday4ty2gjst.webp",
+        "pic3": "9-crystal-13cblkrd-asian-black-original-imagbdayhhgzdmde.webp",
+        "pic4": "9-crystal-13cblkrd-asian-black-original-imagbdaywyeshk6r.webp",
+        "id": 11
+      },
+      {
+        "name": "Heels Sandal",
+        "maincategory": "Female",
+        "subcategory": "Shoes",
+        "brand": "Zara",
+        "color": "Black",
+        "size": "L",
+        "baseprice": 800,
+        "discount": 45,
+        "finalprice": 440,
+        "stock": "Out Stock",
+        "description": "Women Black Heels Sandal",
+        "pic1": "2-m-2-toshina-shoes-king-black-original-imagat7tdvgyzkfx-bb.webp",
+        "pic2": "2-m-2-toshina-shoes-king-black-original-imagat7thjhghuzv.webp",
+        "pic3": "2-m-2-toshina-shoes-king-black-original-imagat7thjhghuzv.webp",
+        "pic4": "2-m-2-toshina-shoes-king-black-original-imagat7thjhghuzv.webp",
+        "id": 12
+      },
+    {
+      "name": "Slippers",
+      "maincategory": "Male",
+      "subcategory": "Shoes",
+      "brand": "Nike",
+      "color": "White",
+      "size": "L",
+      "baseprice": 600,
+      "discount": 10,
+      "finalprice": 540,
+      "stock": "In Stock",
+      "description": "Flip Flops slippers Brown for mens",
+      "pic1": "-original-imaghxffeexqdbsg.webp",
+      "pic2": "6-ff-375-brown-footup-brown-original-imag4bnqmxmhb9va.webp",
+      "pic3": "6-ff-375-brown-footup-brown-original-imag4bnqhjq3hhuf.webp",
+      "pic4": "6-ff-375-brown-footup-brown-original-imag4bnqmxmhb9va.webp",
+      "id": 13
+    }
+      
+    ]
+  }

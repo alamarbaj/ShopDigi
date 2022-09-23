@@ -1,0 +1,69 @@
+.register {
+    margin-left: 7rem;
+}
+
+.searchbar {
+    padding-right: 15rem;
+    border-radius: 20px;
+}
+
+.consumer {
+    margin-left: 2rem;
+}
+
+.signin {
+    background-color: white;
+    margin-right: 10px;
+    font-weight: bold;
+    color: #2264D1;
+    border: 1px solid #9DC2FF;
+    border-radius: 4px;
+}
+
+.mycart {
+    background-color: white;
+    border-color: white;
+    box-shadow: 1px 1px 3px;
+    font-weight: bold;
+    color: #2264D1;
+    border-radius: 4px;
+}
+
+.profilepic {
+
+    border-radius: 50%;
+}
+.price{
+    font-weight: bold;
+}
+.card{
+    margin-bottom: 1rem;
+}
+.watchbtn{
+    border: 1px solid;
+    background-color: white;
+    color: #2264D1;
+    border-radius: 4px;
+}
+.ratingbtn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.category{
+margin: 1rem 0;
+font-size: 1x;
+
+}
+.categoryitem{
+    font-size: 10px;
+    font-weight: bold;
+}
+.name{
+    white-space: nowrap; 
+    width: 150px; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+   
+}
